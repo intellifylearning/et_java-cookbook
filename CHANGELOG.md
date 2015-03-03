@@ -1,12 +1,7 @@
-# CHANGELOG for et_migrations_java
+# CHANGELOG for et_java
 
-This file is used to list changes made in each version of et_migrations_java.
+This file is used to list changes made in each version of et_java.
 
-## 0.1.0:
+## v0.1.0 (2013-07-22)
 
-* Initial release of et_migrations_java
-
-- - -
-Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
-
-The [Github Flavored Markdown page](http://github.github.com/github-flavored-markdown/) describes the differences between markdown on github and standard markdown.
+* Initial release of et_java
