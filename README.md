@@ -1,6 +1,6 @@
 # et_java Cookbook
 
-Installs OpenJDK 7 using the `java` cookbook.
+Very thin wrapper for the Java cookbook. It's main job is to change the download source to our own S3 bucket to avoid the constantly changing Oracle URLs
 
 ## Requirements
 
